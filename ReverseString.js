@@ -1,3 +1,5 @@
+// Code for reversing a string
+
 function revString(input) {
     let str = input
     let revString = ""
