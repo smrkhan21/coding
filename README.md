@@ -1,7 +1,7 @@
 # Coding Practice
 # Solving 150 Coding Problems + JS Machine Coding Problems
 
-<h3> Questions will be Topic wise and topics are given below </h3>
+<h3> Questions will be Topic wise and topics are given below : </h3>
 
 <strong>
   <ol>
