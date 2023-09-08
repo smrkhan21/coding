@@ -7,8 +7,7 @@
 
 function checkAnagram(s, t) {
     const obj1 = {};
-    const obj2 = {};
-
+    
     for(const item of s) {
         if(obj1.hasOwnProperty(item)) {
             obj1[item]++;
