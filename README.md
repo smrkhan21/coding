@@ -3,8 +3,6 @@
 
 <h3> Questions will be Topic wise and topics are given below </h3>
 
-<h3> Questions will be Topic wise and topics are given below : </h3>
-
 <strong>
   <ol>
     <li><a href="https://github.com/smrkhan21/coding/tree/main/Strings">String Manipulation</a></li>
