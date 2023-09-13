@@ -11,8 +11,12 @@
     <li><a href="https://github.com/smrkhan21/coding/tree/main/Arrays">Array Manipulation</a></li>
     <li><a href="#">LinkedList</a></li>
     <li><a href="#">Stacks & Queues</a></li>
+    <li><a href="#">Search and Sorting</a></li>
+    <li><a href="#">Recursion</a></li>
+    <li><a href="#">Hashing and Sets</a></li>
     <li><a href="#">Tree & Graph</a></li>
     <li><a href="#">Dynamic Programming</a></li>
+    <li><a href="#">Greedy Algorithms</a></li>
     <li><a href="#">Number System</a></li>
     <li><a href="#">Implementaion of Map, Filter & Reduce</a></li>
     <li><a href="#">Polyfill of Bind Method</a></li>
