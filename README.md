@@ -7,7 +7,7 @@
   <ol>
     <li><a href="https://github.com/smrkhan21/coding/tree/main/Strings">String Manipulation</a></li>
     <li><a href="https://github.com/smrkhan21/coding/tree/main/Arrays">Array Manipulation</a></li>
-    <li><a href="#">LinkedList</a></li>
+    <li><a href="https://github.com/smrkhan21/coding/tree/main/LinkedList">LinkedList</a></li>
     <li><a href="#">Stacks & Queues</a></li>
     <li><a href="#">Search and Sorting</a></li>
     <li><a href="#">Recursion</a></li>
