@@ -29,8 +29,8 @@ output: 20
 Array.prototype.customFind = function(callback) {
     for(let i = 0; i < this.length; i++) {
         let result;
-        if(result = callback(this[i],i, this)) {
-            if(result) return this[i]
+        if(callback(this[i],i, this)) {
+            return this[i]
         }
     }
     return null
