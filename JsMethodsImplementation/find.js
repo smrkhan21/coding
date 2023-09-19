@@ -44,5 +44,3 @@ function checkAge(age) {
 }
 
 console.log(ages.customFind(checkAge))
-
-// output: 20
