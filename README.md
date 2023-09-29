@@ -17,6 +17,7 @@
     <li><a href="#">Number System</a></li>
     <li><a href="#">Implementaion of Map, Filter & Reduce</a></li>
     <li><a href="#">Polyfill of Bind Method</a></li>
+    <li><a href="#">Polyfill of Promise.all</a></li>
     <li><a href="https://github.com/smrkhan21/coding/tree/main/JsMethodsImplementation">JS Method Implementation</a></li>
     <li><a href="#">JS Frequently asked coding/tricky questions (Deboucning, Throatling, Capturing, Bubbling, Method Chaining etc.)</a></li>
     <li><a href="#">And many more...</a></li>
